@@ -51,8 +51,7 @@ const Hero = () => {
             <div className='my-10 h-[1px] w-full bg-[#DBD6CF] lg:my-16 xl:my-20'></div>
             <div className='jos mx-auto mb-12 max-w-[715px] text-center lg:mb-16'>
               <p className='text-lg'>
-                Companies of all sizes trust us to find AI SaaS critical to
-                their growth and innovation
+                Companies of all sizes trust us
               </p>
             </div>
             <div className='jos brand-slider' data-jos_animation='fade'>
@@ -87,9 +86,9 @@ const Hero = () => {
                 </SwiperSlide>
                 <SwiperSlide>
                   <img
-                    src='assets/img/th-1/brand-2.png'
+                    src='assets/img/icons/partners.png'
                     alt='brand-2'
-                    width='183'
+                    width='100%'
                     height='35'
                     className='max-w-full'
                   />
